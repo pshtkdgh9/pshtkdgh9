@@ -17,4 +17,4 @@
 ![Sangho's github stats]
 
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ssh@chungbuk.ac.kr)
-[![blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://stevenbob.tistory.com/))
+[![blog](https://img.shields.io/badge/Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://stevenbob.tistory.com/)
