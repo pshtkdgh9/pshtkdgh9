@@ -8,6 +8,7 @@
 ![NoSQL](https://img.shields.io/badge/-NoSQL-green)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-brightgreen)
+![CUDA](https://img.shields.io/badge/green)
 
 
 ![VueJS](https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
