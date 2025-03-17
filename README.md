@@ -1,6 +1,6 @@
 ### About Me
 
-- 🌟 Chungbuk National Univ, Student 
+- 🌟 Chungbuk National Univ, PhD Candidate
 
 ### Tech Stack
 
