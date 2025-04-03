@@ -38,9 +38,11 @@
 
 📖 Retiti Diop Emane, C., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2024). Anomaly Detection Based on GCNs and DBSCAN in a Large-Scale Graph. Electronics, 13(13), 2625. (https://doi.org/10.3390/electronics13132625)
 
+📖 Choi, D., Jang, J., **Song, S**., Lee, H., Lim, J., Bok, K., & Yoo, J. (2024). Name Disambiguation Scheme Based on Heterogeneous Academic Sites. Applied Sciences, 14(1), 192. (https://doi.org/10.3390/app14010192)
+
 📖 Kim, Y., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2023). Regional Traffic Event Detection Using Data Crowdsourcing. Applied Sciences, 13(16), 9422. (https://doi.org/10.3390/app13169422)
 
-📖 Choi, D., Jang, J., **Song, S**., Lee, H., Lim, J., Bok, K., & Yoo, J. (2024). Name Disambiguation Scheme Based on Heterogeneous Academic Sites. Applied Sciences, 14(1), 192. (https://doi.org/10.3390/app14010192)
+
 
 ## Domestic
 
