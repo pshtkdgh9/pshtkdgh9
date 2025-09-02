@@ -42,6 +42,9 @@
 
 📖 Kim, Y., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2023). Regional Traffic Event Detection Using Data Crowdsourcing. Applied Sciences, 13(16), 9422. (https://doi.org/10.3390/app13169422)
 
+📖 Choi, D., Wee, J., **Song, S**., Lee, H., Lim, J., Bok, K., & Yoo, J. (2023). k-NN Query Optimization for High-Dimensional Index Using Machine Learning. Electronics, 12(11), 2375. https://doi.org/10.3390/electronics12112375
+
+
 
 
 ## Domestic
