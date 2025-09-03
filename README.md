@@ -51,9 +51,9 @@
 
 📖 **송상호(first author)**, 김상혁, Christopher RETITI DIOP EMANE, 전종우, 정인수, 차동현, Delin Meng, Shilei Zong, 최도진, 임종태, 복경수 & 유재수. (2025). 사용자 프로필 생성을 통한 학술 문헌 기반 전문가 탐색 기법. 한국콘텐츠학회 논문지, 25(5), 13-25.
 
-📖 **송상호(first author)**, 김윤아, 이현병, 최지현, 최도진, 임종태, ... & 유재수. (2024). GPU 를 이용한 경로 기반 하이브리드 그래프 처리 기법. 정보과학회 컴퓨팅의 실제 논문지, 30(11), 582-587.
-
 📖 **송상호(first author)**, 최지현, 차동현, 이현병, 최도진, 임종태, ... & 유재수. (2024). Efficient Dynamic Graph Processing Based on GPU Accelerated Scheduling and Operation Reduction. Journal of KIISE, 51(12), 1125-1135.
+
+📖 **송상호(first author)**, 김윤아, 이현병, 최지현, 최도진, 임종태, ... & 유재수. (2024). GPU 를 이용한 경로 기반 하이브리드 그래프 처리 기법. 정보과학회 컴퓨팅의 실제 논문지, 30(11), 582-587.
 
 📖 **송상호(first author)**, 김윤아, 장준혁, 김상혁, 이현병, 최도진, ... & 유재수. (2023). 다중 분류기 기반 이종 학술 문헌 동명이인 판별 기법. 한국콘텐츠학회논문지, 23(11), 47-56.
 
