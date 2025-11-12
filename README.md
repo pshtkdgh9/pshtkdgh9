@@ -30,6 +30,8 @@
 
 ## International
 
+📖 J. Jeon, **Song, S**, D. Choi, J. Lim, K. Bok and J. Yoo, "Efficient Subgraph Matching on Heterogeneous Graphs via Concurrent Graphics Processing Units Processing," in IEEE Access. (https://doi.org/10.1109/ACCESS.2025.3631641)
+
 📖 **Song, S.(first author)**, Choi, J., Cha, D., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2025). Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction. Applied Sciences, 15(6), 3172. (https://doi.org/10.3390/app15063172)
 
 📖 Lee, H., Baek, J., **Song, S**., Kim, Y., Hwang, H., Lim, J., & Yoo, J, "Efficient Large Graph Partitioning Scheme Using Incremental Processing in GPU," in IEEE Access, vol. 13, pp. 43889-43903, 2025. (https://doi.org/10.1109/ACCESS.2025.3547976)
