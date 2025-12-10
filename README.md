@@ -53,6 +53,8 @@
 
 📖 **송상호(first author)**, 김상혁, Christopher RETITI DIOP EMANE, 전종우, 정인수, 차동현, Delin Meng, Shilei Zong, 최도진, 임종태, 복경수 & 유재수. (2025). 사용자 프로필 생성을 통한 학술 문헌 기반 전문가 탐색 기법. 한국콘텐츠학회 논문지, 25(5), 13-25.
 
+📖 전종우, **송상호**, 차동현, 정인수, 임종태, 유재수, 복경수. (2025). LBSN에서 방문 패턴을 고려한 협업 필터링 기반의 POI 추천. 한국콘텐츠학회논문지, 25(11), 13-22.
+
 📖 김상혁, 정인수, 전종우, **송상호**, 레티티디옵에미네크리스토퍼, 최도진 and 유재수. (2025). 최신성과 영향력을 고려한 연구자 추천 지수. 정보과학회논문지, 52(4), 331-340.
 
 📖 **송상호(first author)**, 최지현, 차동현, 이현병, 최도진, 임종태, ... & 유재수. (2024). Efficient Dynamic Graph Processing Based on GPU Accelerated Scheduling and Operation Reduction. Journal of KIISE, 51(12), 1125-1135.
