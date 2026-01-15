@@ -30,15 +30,16 @@
 
 ## International
 
-📖 **Song, S.(first author)**, Choi, J., Cha, D., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2025). Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction. Applied Sciences, 15(6), 3172. (https://doi.org/10.3390/app15063172)
 
 📖 J. Jeon, **Song, S**, D. Choi, J. Lim, K. Bok and J. Yoo, "Efficient Subgraph Matching on Heterogeneous Graphs via Concurrent Graphics Processing Units Processing," in IEEE Access. (https://doi.org/10.1109/ACCESS.2025.3631641)
 
+📖 **Song, S.(first author)**, Choi, J., Cha, D., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2025). Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction. Applied Sciences, 15(6), 3172. (https://doi.org/10.3390/app15063172)
+
 📖 Lee, H., Baek, J., **Song, S**., Kim, Y., Hwang, H., Lim, J., & Yoo, J, "Efficient Large Graph Partitioning Scheme Using Incremental Processing in GPU," in IEEE Access, vol. 13, pp. 43889-43903, 2025. (https://doi.org/10.1109/ACCESS.2025.3547976)
 
-📖 **Song, S.(first author)**, Lee, H., Kim, Y., Lim, J., Choi, D., Bok, K., & Yoo, J. (2024). Graph Processing Scheme Using GPU With Value-Driven Differential Scheduling. IEEE Access.(https://doi.org/10.1109/ACCESS.2024.3374513)
-
 📖 Retiti Diop Emane, C., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2024). Anomaly Detection Based on GCNs and DBSCAN in a Large-Scale Graph. Electronics, 13(13), 2625. (https://doi.org/10.3390/electronics13132625)
+
+📖 **Song, S.(first author)**, Lee, H., Kim, Y., Lim, J., Choi, D., Bok, K., & Yoo, J. (2024). Graph Processing Scheme Using GPU With Value-Driven Differential Scheduling. IEEE Access.(https://doi.org/10.1109/ACCESS.2024.3374513)
 
 📖 Choi, D., Jang, J., **Song, S**., Lee, H., Lim, J., Bok, K., & Yoo, J. (2024). Name Disambiguation Scheme Based on Heterogeneous Academic Sites. Applied Sciences, 14(1), 192. (https://doi.org/10.3390/app14010192)
 
@@ -51,9 +52,9 @@
 
 ## Domestic
 
-📖 **송상호(first author)**, 김상혁, Christopher RETITI DIOP EMANE, 전종우, 정인수, 차동현, Delin Meng, Shilei Zong, 최도진, 임종태, 복경수 & 유재수. (2025). 사용자 프로필 생성을 통한 학술 문헌 기반 전문가 탐색 기법. 한국콘텐츠학회 논문지, 25(5), 13-25.
-
 📖 전종우, **송상호**, 차동현, 정인수, 임종태, 유재수, 복경수. (2025). LBSN에서 방문 패턴을 고려한 협업 필터링 기반의 POI 추천. 한국콘텐츠학회논문지, 25(11), 13-22.
+
+📖 **송상호(first author)**, 김상혁, Christopher RETITI DIOP EMANE, 전종우, 정인수, 차동현, Delin Meng, Shilei Zong, 최도진, 임종태, 복경수 & 유재수. (2025). 사용자 프로필 생성을 통한 학술 문헌 기반 전문가 탐색 기법. 한국콘텐츠학회 논문지, 25(5), 13-25.
 
 📖 김상혁, 정인수, 전종우, **송상호**, 레티티디옵에미네크리스토퍼, 최도진 and 유재수. (2025). 최신성과 영향력을 고려한 연구자 추천 지수. 정보과학회논문지, 52(4), 331-340.
 
