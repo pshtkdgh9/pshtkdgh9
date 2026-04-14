@@ -30,7 +30,7 @@
 
 ## International
 
-📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access,  (https://doi: 10.1109/ACCESS.2026.3683408.)
+📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access,  ([https://doi: 10.1109/ACCESS.2026.3683408.](https://doi.org/10.1109/ACCESS.2026.3683408))
 
 
 📖 J. Jeon, **Song, S**, D. Choi, J. Lim, K. Bok and J. Yoo, "Efficient Subgraph Matching on Heterogeneous Graphs via Concurrent Graphics Processing Units Processing," in IEEE Access. (https://doi.org/10.1109/ACCESS.2025.3631641)
