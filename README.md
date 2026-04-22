@@ -1,6 +1,6 @@
 ### About Me
 
-- 🌟 Chungbuk National Univ, PostdoctoralResearcher
+- 🌟 Chungbuk National Univ, Postdoctoral Researcher
 
 ### Tech Stack
 
