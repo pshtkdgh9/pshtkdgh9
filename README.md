@@ -29,10 +29,10 @@
 
 ## International
 
-📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access,  ([https://doi: 10.1109/ACCESS.2026.3683408.](https://doi.org/10.1109/ACCESS.2026.3683408))
+📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access, vol. 14, pp. 59721-59733.  ([https://doi: 10.1109/ACCESS.2026.3683408.](https://doi.org/10.1109/ACCESS.2026.3683408))
 
 
-📖 J. Jeon, **Song, S**, D. Choi, J. Lim, K. Bok and J. Yoo, "Efficient Subgraph Matching on Heterogeneous Graphs via Concurrent Graphics Processing Units Processing," in IEEE Access. (https://doi.org/10.1109/ACCESS.2025.3631641)
+📖 J. Jeon, **Song, S**, D. Choi, J. Lim, K. Bok and J. Yoo, "Efficient Subgraph Matching on Heterogeneous Graphs via Concurrent Graphics Processing Units Processing," in IEEE Access, vol. 13, pp. 194279-194291. (https://doi.org/10.1109/ACCESS.2025.3631641)
 
 📖 **Song, S.(first author)**, Choi, J., Cha, D., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2025). Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction. Applied Sciences, 15(6), 3172. (https://doi.org/10.3390/app15063172)
 
@@ -40,7 +40,7 @@
 
 📖 Retiti Diop Emane, C., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2024). Anomaly Detection Based on GCNs and DBSCAN in a Large-Scale Graph. Electronics, 13(13), 2625. (https://doi.org/10.3390/electronics13132625)
 
-📖 **Song, S.(first author)**, Lee, H., Kim, Y., Lim, J., Choi, D., Bok, K., & Yoo, J. (2024). Graph Processing Scheme Using GPU With Value-Driven Differential Scheduling. IEEE Access.(https://doi.org/10.1109/ACCESS.2024.3374513)
+📖 **Song, S.(first author)**, Lee, H., Kim, Y., Lim, J., Choi, D., Bok, K., & Yoo, J. (2024). Graph Processing Scheme Using GPU With Value-Driven Differential Scheduling. IEEE Access, vol. 12, pp. 41590-41600.  (https://doi.org/10.1109/ACCESS.2024.3374513)
 
 📖 Choi, D., Jang, J., **Song, S**., Lee, H., Lim, J., Bok, K., & Yoo, J. (2024). Name Disambiguation Scheme Based on Heterogeneous Academic Sites. Applied Sciences, 14(1), 192. (https://doi.org/10.3390/app14010192)
 
