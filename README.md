@@ -29,7 +29,7 @@
 
 ## International
 
-📖 H. Lee(first author), **Song, S.(first author)**, D. Cha(first author), D. Choi, K. Bok and J. Yoo, "Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation," in IEEE Access, doi: 10.1109/ACCESS.2026.3689317.
+📖 H. Lee(first author), **Song, S.(first author)**, D. Cha(first author), D. Choi, K. Bok and J. Yoo, "Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation," in IEEE Access, (https://doi.org/10.1109/ACCESS.2026.3689317)
 
 📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access, vol. 14, pp. 59721-59733.  ([https://doi: 10.1109/ACCESS.2026.3683408.](https://doi.org/10.1109/ACCESS.2026.3683408))
 
