@@ -29,9 +29,9 @@
 
 ## International
 
-📖 H. Lee(first author), **Song, S.(first author)**, "SSGC: A Relaxed Semi-Streaming Framework for Scalable Signed Graph Clustering", Future Generation Computer Systems (accepted)
+📖 H. Lee(first author), **Song, S.(first author)**,  Choi, D., Lim, J., Bok, K., & Yoo, J. (2026). "SSGC: A Relaxed Semi-Streaming Framework for Scalable Signed Graph Clustering", in Future Generation Computer Systems (accepted)
 
-📖 H. Lee(first author), **Song, S.(first author)**, D. Cha(first author), D. Choi, K. Bok and J. Yoo, "Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation," in IEEE Access, vol. 14, pp. 69881-69895.  (https://doi.org/10.1109/ACCESS.2026.3689317)
+📖 H. Lee(first author), **Song, S.(first author)**, D. Cha(first author), D. Choi, K. Bok and J. Yoo. (2026). "Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation," in IEEE Access, vol. 14, pp. 69881-69895.  (https://doi.org/10.1109/ACCESS.2026.3689317)
 
 📖 **Song, S.(first author)**, Seo, J., Retiti Diop Emane, C., Meng, D., Choi, D., Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). "Unsupervised Author Name Disambiguation Method Based on Hybrid Embedding," in IEEE Access, vol. 14, pp. 59721-59733.  ([https://doi: 10.1109/ACCESS.2026.3683408.](https://doi.org/10.1109/ACCESS.2026.3683408))
 
@@ -40,9 +40,9 @@
 
 📖 **Song, S.(first author)**, Choi, J., Cha, D., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2025). Large-Scale Dynamic Graph Processing with Graphic Processing Unit-Accelerated Priority-Driven Differential Scheduling and Operation Reduction. Applied Sciences, 15(6), 3172. (https://doi.org/10.3390/app15063172)
 
-📖 Lee, H., Baek, J., **Song, S**., Kim, Y., Hwang, H., Lim, J., & Yoo, J, "Efficient Large Graph Partitioning Scheme Using Incremental Processing in GPU," in IEEE Access, vol. 13, pp. 43889-43903, 2025. (https://doi.org/10.1109/ACCESS.2025.3547976)
+📖 Lee, H., Baek, J., **Song, S**., Kim, Y., Hwang, H., Lim, J., & Yoo, J. (2025). "Efficient Large Graph Partitioning Scheme Using Incremental Processing in GPU," in IEEE Access, vol. 13, pp. 43889-43903. (https://doi.org/10.1109/ACCESS.2025.3547976)
 
-📖 Retiti Diop Emane, C., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2024). Anomaly Detection Based on GCNs and DBSCAN in a Large-Scale Graph. Electronics, 13(13), 2625. (https://doi.org/10.3390/electronics13132625)
+📖 Retiti Diop Emane, C., **Song, S**., Lee, H., Choi, D., Lim, J., Bok, K., & Yoo, J. (2024). Anomaly Detection Based on GCNs and DBSCAN in a Large-Scale Graph. Electronics, 13(13). (https://doi.org/10.3390/electronics13132625)
 
 📖 **Song, S.(first author)**, Lee, H., Kim, Y., Lim, J., Choi, D., Bok, K., & Yoo, J. (2024). Graph Processing Scheme Using GPU With Value-Driven Differential Scheduling. IEEE Access, vol. 12, pp. 41590-41600.  (https://doi.org/10.1109/ACCESS.2024.3374513)
 
