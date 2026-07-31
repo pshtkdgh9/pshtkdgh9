@@ -29,7 +29,7 @@
 
 ## International
 
-📖 H. Lee(first author), **Song, S.(first author)**,  Choi, D., Lim, J., Bok, K., & Yoo, J. (2026). "SSGC: A Relaxed Semi-Streaming Framework for Scalable Signed Graph Clustering", in Future Generation Computer Systems (accepted)
+📖 H. Lee(first author), **Song, S.(first author)**,  Choi, D., Lim, J., Bok, K., & Yoo, J. (2026). SSGC: A relaxed semi-streaming framework for Scalable Signed Graph Clustering. Future Generation Computer Systems, 108712. (https://doi.org/10.1016/j.future.2026.108712)
 
 📖 H. Lee(first author), **Song, S.(first author)**, D. Cha(first author), D. Choi, K. Bok and J. Yoo. (2026). "Cost-Aware Decoupled Optimization for Graph-Based Vector Index Tuning with Adaptive Budget Allocation," in IEEE Access, vol. 14, pp. 69881-69895.  (https://doi.org/10.1109/ACCESS.2026.3689317)
 
