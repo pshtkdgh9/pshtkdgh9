@@ -29,7 +29,7 @@
 
 ## International
 
-📖 **Song, S.(first author)**, Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). Robust Dynamic Trust Evaluation Using Snapshot-Based Graph Neural Networks in On-line Social Networks. Neurocomputing, accepted.  ()
+📖 **Song, S.(first author)**, Lee, H., Lim, J., Bok, K., & Yoo, J. (2026). Robust Dynamic Trust Evaluation Using Snapshot-Based Graph Neural Networks in On-line Social Networks. Neurocomputing, accepted.  (https://www.sciencedirect.com/science/article/pii/S0925231226023027?via%3Dihub)
 
 📖 H. Lee(first author), **Song, S.(first author)**,  Choi, D., Lim, J., Bok, K., & Yoo, J. (2026). SSGC: A relaxed semi-streaming framework for Scalable Signed Graph Clustering. Future Generation Computer Systems, 108712. (https://doi.org/10.1016/j.future.2026.108712)
 
